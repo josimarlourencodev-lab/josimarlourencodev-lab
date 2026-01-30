@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm Josimar — Software Development Student and Technology Enthusiast<br>🧠 Exploring systems, low-level programming, and creative front-end experiences<br>🔧 Passionate about combining software and hardware to build practical, real-world projects<br>🚀 Focused on continuous learning and building a strong foundation for my professional journey<br>🌱 Currently studying C#, Pygame, Monogame, and Haskell (Functional Programming</h3>
+<h3 align="left">👋 Hi, I'm Josimar — Software Development Student and Technology Enthusiast<br>🧠 Exploring systems, low-level programming, and creative front-end experiences<br>🔧 Passionate about combining software and hardware to build practical, real-world projects<br>🚀 Focused on continuous learning and building a strong foundation for my professional journey<br>🌱 Currently studying C#, Monogame, and Haskell (Functional Programming)</h3>
 
 ###
 
