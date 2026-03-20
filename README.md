@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
