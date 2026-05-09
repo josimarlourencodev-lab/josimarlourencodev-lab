@@ -1,4 +1,18 @@
-<h3 align="left">👋 Hi, I'm Josimar — Software Development Student and Technology Enthusiast<br>🧠 Exploring systems, low-level programming, and creative front-end experiences<br>🔧 Passionate about combining software and hardware to build practical, real-world projects<br>🚀 Focused on continuous learning and building a strong foundation for my professional journey<br>🌱 Currently studying C#, Monogame, and Haskell (Functional Programming)</h3>
+<h3 align="left">🇧🇷 Português
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Olá, eu sou Josimar — Estudante de Desenvolvimento de Software e Entusiasta de Tecnologia  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16"/> Explorando sistemas, programação de baixo nível e experiências criativas em front-end  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/> Apaixonado por combinar software e hardware para criar projetos práticos e aplicáveis ao mundo real  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Focado em aprendizado contínuo e na construção de uma base sólida para minha jornada profissional  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="16"/> Atualmente estudando C#, Monogame e Godot (GameDev)
+
+🇺🇸 English
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Hi, I'm Josimar — Software Development Student and Technology Enthusiast  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16"/> Exploring systems, low-level programming, and creative front-end experiences  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/> Passionate about combining software and hardware to build practical, real-world projects  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Focused on continuous learning and building a strong foundation for my professional journey  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="16"/> Currently studying C#, Monogame, and Godot (GameDev)</h3>
 
 ###
 
