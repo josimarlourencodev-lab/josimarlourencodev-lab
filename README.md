@@ -1,6 +1,22 @@
-<h4 align="left"><h3 align="left">🇧🇷 Português<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Olá, eu sou Josimar — Estudante de Desenvolvimento de Software e Entusiasta de Tecnologia  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16"/> Explorando sistemas, programação de baixo nível e experiências criativas em front-end  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/> Apaixonado por combinar software e hardware para criar projetos práticos e aplicáveis ao mundo real  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Focado em aprendizado contínuo e na construção de uma base sólida para minha jornada profissional  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="16"/> Atualmente estudando C#, Monogame e Godot (GameDev)<br><br>🇺🇸 English<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Hi, I'm Josimar — Software Development Student and Technology Enthusiast  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16"/> Exploring systems, low-level programming, and creative front-end experiences  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/> Passionate about combining software and hardware to build practical, real-world projects  <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Focused on continuous learning and building a strong foundation for my professional journey  <br><img 
-<h4><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="16"/> Currently studying AI Engineering, AI integration, Data Science, and Machine Learning</h4>
-###
+<h3 align="left">🇧🇷 Português</h3>
+
+<h4 align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Olá, eu sou Josimar — Estudante de Desenvolvimento de Software e Entusiasta de Tecnologia<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16"/> Explorando sistemas, programação de baixo nível e experiências criativas em front-end<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/> Apaixonado por combinar software e hardware para criar projetos práticos e aplicáveis ao mundo real<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Focado em aprendizado contínuo e na construção de uma base sólida para minha jornada profissional<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="16"/> Atualmente estudando Engenharia de IA, Integração de IA, Ciência de Dados e Aprendizado de Máquina
+</h4>
+
+<h3 align="left">🇺🇸 English</h3>
+
+<h4 align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Hi, I'm Josimar — Software Development Student and Technology Enthusiast<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16"/> Exploring systems, low-level programming, and creative front-end experiences<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/> Passionate about combining software and hardware to build practical, real-world projects<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Focused on continuous learning and building a strong foundation for my professional journey<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="16"/> Currently studying AI Engineering, AI Integration, Data Science, and Machine Learning
+</h4>
 
 <h2 align="left">💻 Languages, Frameworks & Libraries</h2>
 
