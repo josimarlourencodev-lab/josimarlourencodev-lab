@@ -45,9 +45,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
