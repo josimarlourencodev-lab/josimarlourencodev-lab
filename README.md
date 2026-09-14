@@ -20,9 +20,12 @@
 
 ###
 
-<p data-importer="text" align="left"><h4 align="left"><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Hi, I'm Josimar — Software Development Student and Technology Enthusiast<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16"/> Exploring systems, low-level programming, and creative front-end experiences<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/> Passionate about combining software and hardware to build practical, real-world projects<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Focused on continuous learning and building a strong foundation for my professional journey<br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="16"/> Currently studying AI Engineering, Game Dev, and Mobile Development (Expo)<br></h4></p>
-
-###
+<h4 align="left" style="font-weight: normal; font-size: 14px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16"/> Hi, I'm Josimar — Software Development Student and Technology Enthusiast<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="16"/> Exploring systems, low-level programming, and creative front-end experiences<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/> Passionate about combining software and hardware to build practical, real-world projects<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16"/> Focused on continuous learning and building a strong foundation for my professional journey<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="16"/> Currently studying AI Engineering, Game Dev, and Mobile Development (Expo)</h4>
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
